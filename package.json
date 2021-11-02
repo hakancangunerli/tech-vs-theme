@@ -1,0 +1,21 @@
+{
+    "name": "tehc-theme",
+    "displayName": "Tehc",
+    "description": "thec theme for buzz",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Thec",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Thec-color-theme.json"
+            }
+        ]
+    }
+}
