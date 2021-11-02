@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "tehc-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# tehc-theme (will regularly be updated)
+tech , but a theme! 🐝
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![meme](https://i.kym-cdn.com/entries/icons/original/000/032/379/Screen_Shot_2020-01-09_at_2.22.56_PM.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+getting into gatech was something i've spent over 5 years of my life on, and i've finally done it. so, before i actually begin, i felt like giving back to the community a little! 
 
-**Enjoy!**
+
+i've never written any vscode extensions before, so if you run into bugs please put it onto issues [here.](https://github.com/hakancangunerli/tehc-theme/issues) 
+
+
+# Screenshots 
+![Screenshot](Main.png)
+![Screenshot](SampleCode.png)
